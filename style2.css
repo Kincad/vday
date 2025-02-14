@@ -1,0 +1,14 @@
+body {
+    font-family: "Poppins", sans-serif;
+	background-color: #FFC0CB;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.gif {
+    height: 700px;
+}
+.button {
+    position: absolute; 
+}
